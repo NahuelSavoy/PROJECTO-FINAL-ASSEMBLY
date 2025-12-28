@@ -1,3 +1,5 @@
 -Este juego se creo utilizando un editor de texto comun (Sublime Text / VS Code), se uso un 95% lenguaje assembler y el otro 5% fue en python,
 -para poder crear todos los sprites del juego usamos un programa que convertia imagenes ".png" a codigo binario
 -Cada funcion utilizada esta explicada detalladamente (Funcionamiento y el como usar cada una de ellas)
+-Para ejecutar el codigo se uso Una maquina virtual (DosBOX)
+-Debido a las limitaciones de la misma maquina virtual, optimizamos lo mas que pudimos el juego, faltaron mas funciones que estan en el juego original
